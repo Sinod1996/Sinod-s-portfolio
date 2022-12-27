@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sinod-s-portfolio/static/css/main.8e2f64b7.css",
+    "main.css": "/sinod-s-portfolio/static/css/main.544a56b8.css",
     "main.js": "/sinod-s-portfolio/static/js/main.60ad4c72.js",
     "static/media/solar.png": "/sinod-s-portfolio/static/media/solar.026a29787df7fd4a52de.png",
     "static/media/millionaire.png": "/sinod-s-portfolio/static/media/millionaire.935f5ad35941e7ebb0cf.png",
@@ -9,11 +9,11 @@
     "static/media/Sinod.jpg": "/sinod-s-portfolio/static/media/Sinod.45cd639324a0ebdeb61c.jpg",
     "static/media/todo.png": "/sinod-s-portfolio/static/media/todo.5d4c33142fb1b84078ee.png",
     "index.html": "/sinod-s-portfolio/index.html",
-    "main.8e2f64b7.css.map": "/sinod-s-portfolio/static/css/main.8e2f64b7.css.map",
+    "main.544a56b8.css.map": "/sinod-s-portfolio/static/css/main.544a56b8.css.map",
     "main.60ad4c72.js.map": "/sinod-s-portfolio/static/js/main.60ad4c72.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e2f64b7.css",
+    "static/css/main.544a56b8.css",
     "static/js/main.60ad4c72.js"
   ]
 }
